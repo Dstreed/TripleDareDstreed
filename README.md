@@ -1,39 +1,28 @@
 # Triple Dare
 
-Triple Dare - CSS Challenge
+## Triple Dare - CSS Challenge
 
-[Voici le prototype](https://alyra-css-off.netlify.app/)
+## Introduction
 
-### Couleurs :
+Plateforme de présentation et d'inscription pour un jeu d'obstacle (fictif).
+La page d'accueil vous présente la course et les obstacles qui y seront. La page suivante montre les prix à gagner et la dernière vous permet de vous inscrire avec votre équipe.
 
---yellow: #eef13f;  
---orange: hsl(13, 99%, 60%);  
---green: #80b238;  
---blue: #80c1d6;
+Premier projet d'intégration avec des maquettes (JPEG) pour référence.
 
-### Polices à utiliser (google fonts)
+## Technologies Utilisées
 
-Atma:400,700  
-Bangers
+- HTML 5
+- CSS
+- Github
 
-### Starter - (à venir images + spec.)
+## Fonctionnalités
 
----
+- Menu ancré au haut de page
+- 3 pages (Home/Obstacle, Prizes, Apply)
+- Home/Obstacle : changement de d'état au survol
+- Prizes : animation(rotation) au survol des éléments
+- apply : focus sur le formulaire, animation du bouton(rotation)
 
-## 🚀Validation
+## Lien
 
-"Proprété du code" - code est lisible, indentation correcte, espacèments, commentaires si nécessaires **🦐🐟🦈**
-
-HTML semantique et valide (utiliser validateur w3c) **🦐🐟🦈**
-
-La structure du site est respecté (navigation entre les pages) **🦐🐟🦈**
-
-Le design est respecté **🦐🐟🦈**
-
-Les interactions (état survol) sont respectées **🦐🐟🦈**
-
-Le formulaire est correctement mis en place, avec tous les champs obligatoires **🦐🐟🦈**
-
-Adaptation aux écrans mobiles **🦐🐟🦈**
-
----
+https://basicpacman.netlify.app/
