@@ -25,4 +25,4 @@ Premier projet d'intégration avec des maquettes (JPEG) pour référence.
 
 ## Lien
 
-https://basicpacman.netlify.app/
+https://trippledare.netlify.app/
